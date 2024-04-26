@@ -1,4 +1,4 @@
-# Deep Neighbor Atom-enhanced Dictionary Learning
+# Neighbor Atom-enhanced Deep Dictionary Learning
 Implementation of the paper: "**Robust Deep Dictionary Learning via Self-Expressive Neighbor Atom Enhancement**"
 
 Experimental model launch file:**model.py**
