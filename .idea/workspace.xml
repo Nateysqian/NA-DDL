@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86ae3219-0a1c-469c-8462-0cc52b4528ff" name="Changes" comment="Changes" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="2U5nGss5IWq8GseNCezoKoOFImW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/Stanford- for-dogs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\QYS\Desktop\DDeep dictionary learnning\DDeep dictionary learnning\work\Deep Neighbor Atom-enhanced Dictionary Learning\data\Stanford- for-dogs" />
+      <recent name="C:\Users\QYS\Desktop\DDeep dictionary learnning\DDeep dictionary learnning\work\Deep Neighbor Atom-enhanced Dictionary Learning\data\Oxford-102-flowers" />
+      <recent name="C:\Users\QYS\Desktop\DDeep dictionary learnning\DDeep dictionary learnning\work\Deep Neighbor Atom-enhanced Dictionary Learning\test\data\flowers-102" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.evaluation">
+    <configuration name="emnist-concat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deep_dictionary_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/emnist-concat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="emnist-original" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deep_dictionary_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/emnist-original.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="evaluation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deep_dictionary_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\QYS\Desktop\DDeep dictionary learnning\DDeep dictionary learnning\work\Deep Neighbor Atom-enhanced Dictionary Learning\test\evaluation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fashion_mnist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deep_dictionary_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fashion_mnist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deep_dictionary_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.evaluation" />
+        <item itemvalue="Python.model" />
+        <item itemvalue="Python.emnist-concat" />
+        <item itemvalue="Python.emnist-original" />
+        <item itemvalue="Python.fashion_mnist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86ae3219-0a1c-469c-8462-0cc52b4528ff" name="Changes" comment="" />
+      <created>1692238217029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692238217029</updated>
+      <workItem from="1692238230819" duration="1208000" />
+      <workItem from="1694091274417" duration="7354000" />
+      <workItem from="1694232723109" duration="11870000" />
+      <workItem from="1694318338227" duration="3019000" />
+      <workItem from="1695037809970" duration="2080000" />
+      <workItem from="1695040758435" duration="3137000" />
+      <workItem from="1695092278819" duration="589000" />
+      <workItem from="1695101777490" duration="1796000" />
+      <workItem from="1695119824703" duration="2447000" />
+      <workItem from="1695174814028" duration="603000" />
+      <workItem from="1695179344574" duration="111000" />
+      <workItem from="1695390930383" duration="2620000" />
+      <workItem from="1695397632898" duration="949000" />
+      <workItem from="1695435902087" duration="5153000" />
+      <workItem from="1695457376331" duration="2875000" />
+      <workItem from="1695465970995" duration="1552000" />
+      <workItem from="1695470959322" duration="596000" />
+      <workItem from="1695478165258" duration="703000" />
+      <workItem from="1695635880998" duration="2811000" />
+      <workItem from="1695645497016" duration="1390000" />
+      <workItem from="1703005423803" duration="944000" />
+      <workItem from="1703052877556" duration="6524000" />
+      <workItem from="1703085586390" duration="8180000" />
+      <workItem from="1703122474596" duration="2611000" />
+      <workItem from="1703154233837" duration="2013000" />
+      <workItem from="1703158254814" duration="6262000" />
+      <workItem from="1703246564895" duration="8826000" />
+      <workItem from="1703298565680" duration="58000" />
+      <workItem from="1703314689178" duration="2587000" />
+      <workItem from="1703334410876" duration="4063000" />
+      <workItem from="1703520349129" duration="2150000" />
+      <workItem from="1703600268610" duration="2691000" />
+      <workItem from="1703861423036" duration="5610000" />
+      <workItem from="1703942344781" duration="4303000" />
+      <workItem from="1704024851955" duration="842000" />
+      <workItem from="1704126587369" duration="1190000" />
+      <workItem from="1704197355243" duration="3316000" />
+      <workItem from="1704205838297" duration="3718000" />
+      <workItem from="1704246515235" duration="5406000" />
+      <workItem from="1704552958311" duration="1162000" />
+      <workItem from="1705107794582" duration="2719000" />
+      <workItem from="1705225713531" duration="596000" />
+      <workItem from="1705917367502" duration="1191000" />
+      <workItem from="1709799168516" duration="4028000" />
+      <workItem from="1710344855931" duration="1218000" />
+      <workItem from="1710414782878" duration="1211000" />
+      <workItem from="1710427010077" duration="1655000" />
+      <workItem from="1710432401048" duration="605000" />
+      <workItem from="1710479561304" duration="565000" />
+      <workItem from="1711619103054" duration="1143000" />
+      <workItem from="1712415513600" duration="1208000" />
+      <workItem from="1713760608006" duration="642000" />
+      <workItem from="1714038115938" duration="1568000" />
+      <workItem from="1714052450646" duration="3677000" />
+      <workItem from="1714062048195" duration="1953000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/emnist-original.py</url>
+          <line>264</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Deep_Neighbor_Atom_enhanced_Dictionary_Learning$confusion_matrix.coverage" NAME="confusion matrix Coverage Results" MODIFIED="1714063641240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/ddd$fashion_mnist.coverage" NAME="fashion_mnist Coverage Results" MODIFIED="1703090770422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/deep_dictionary_learning$emnist_original.coverage" NAME="emnist-original Coverage Results" MODIFIED="1694092841614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/deep_dictionary_learning$emnist_concat.coverage" NAME="emnist-concat Coverage Results" MODIFIED="1694335191491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ddd$emnist_original.coverage" NAME="emnist-original Coverage Results" MODIFIED="1703942742154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Deep_Neighbor_Atom_enhanced_Dictionary_Learning$model.coverage" NAME="model Coverage Results" MODIFIED="1714061339709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/deep_dictionary_learning$fashion_mnist.coverage" NAME="fashion_mnist Coverage Results" MODIFIED="1694091545827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Deep_Neighbor_Atom_enhanced_Dictionary_Learning$emnist_concat.coverage" NAME="emnist-concat Coverage Results" MODIFIED="1714052460853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ddd$emnist_concat.coverage" NAME="emnist-concat Coverage Results" MODIFIED="1714038381756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
